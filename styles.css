@@ -80,19 +80,19 @@ h2 {
     text-decoration: underline;
 }
 
-.text-panel h1 {
+.section h1 {
     font-weight: 700;
     font-size: 26px;
     font-family: belleza;
 }
 
-.text-panel h2 {
+.section h2 {
     font-weight: 500;
     font-size: 18px;
     font-family: harmattan;
 }
 
-.text-panel p {
+.section p {
     font-weight: 400;
     font-size: 14px;
     font-family: harmattan;
@@ -100,4 +100,12 @@ h2 {
 
 .p {
     text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
 }
