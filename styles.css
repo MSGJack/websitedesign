@@ -10,7 +10,7 @@ li {
 h1 {
     font-size: 40px;
     text-align: center;
-    font-family: Belleza;
+    font-family: Gurajada;
     margin: 0;
     font-weight: 100;
 }
@@ -71,8 +71,8 @@ h2 {
     font-family: harmattan;
 }
 
-.belleza {
-    font-size: belleza;
+.Gurajada {
+    font-size: Gurajada;
 }
 
 .font-name {
@@ -83,17 +83,18 @@ h2 {
 .section h1 {
     font-weight: 700;
     font-size: 26px;
-    font-family: belleza;
+    font-family: Gurajada;
 }
 
 .section h2 {
     font-weight: 500;
-    font-size: 18px;
+    font-size: 25px;
     font-family: harmattan;
 }
 
 .section p {
     font-size: 25px;
+    text-align: center;
 } 
 
 .bold {
