@@ -24,11 +24,10 @@ h2 {
 }
 
 .section {
-    border: 5px solid maroon;
+    border: 5px solid black;
     background-color: white;
-    width: 70%;
+    width: 65%;
     margin: auto;
-    border-radius: 10%;
 }
 
 .navy {
@@ -61,10 +60,9 @@ h2 {
 }
 
 .font-panel {
-    width: 50%;
     display: inline-block;
     text-align: center;
-    border-radius: 35%;
+    padding: 7px;
 }
 
 .harmattan {
@@ -72,7 +70,7 @@ h2 {
 }
 
 .Gurajada {
-    font-size: Gurajada;
+    font-family: Gurajada;
 }
 
 .font-name {
@@ -93,7 +91,7 @@ h2 {
 }
 
 .section p {
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
 } 
 
