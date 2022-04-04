@@ -68,14 +68,15 @@ h2 {
     padding: 7px;
     text-align: center;
     font-size: 20px;
+    margin: 2% !important;
 }
 
 .harmattan {
     font-family: harmattan;
 }
 
-.Gurajada {
-    font-family: Gurajada;
+.Asul {
+    font-family: Asul;
 }
 
 .font-name {
@@ -85,13 +86,13 @@ h2 {
 
 .section h1 {
     font-weight: 700;
-    font-size: 26px;
-    font-family: Gurajada;
+    font-size: 35px;
+    font-family: Asul;
 }
 
 .section h2 {
-    font-weight: 500;
-    font-size: 25px;
+    font-weight: 550;
+    font-size: 30px;
     font-family: harmattan;
 }
 
@@ -101,4 +102,8 @@ h2 {
 
 .italic {
     font-style: italic;
+}
+
+.text-styles p {
+    text-align: center;
 }
