@@ -4,11 +4,11 @@ body {
 
 li {
     text-align: center;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     font-family: Belleza;
     margin: 0;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 35px;
     font-family: Harmattan;
     margin: 0;
     text-align: center;
@@ -24,11 +24,11 @@ h2 {
 }
 
 .section {
-    border: 5px solid rosybrown;
+    border: 5px solid maroon;
     background-color: white;
-    width: 50%;
+    width: 70%;
     margin: auto;
-    border-radius: 50%;
+    border-radius: 10%;
 }
 
 .navy {
@@ -97,10 +97,6 @@ h2 {
     font-size: 14px;
     font-family: harmattan;
 } 
-
-.p {
-    text-align: center;
-}
 
 .bold {
     font-weight: bold;
