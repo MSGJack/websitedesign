@@ -1,3 +1,7 @@
+* {
+    text-align: center;
+}
+
 body {
     background-color: plum;
 }
@@ -62,6 +66,8 @@ h2 {
 .font-panel {
     display: inline-block;
     padding: 7px;
+    text-align: center;
+    font-size: 20px;
 }
 
 .harmattan {
