@@ -61,7 +61,6 @@ h2 {
 
 .font-panel {
     display: inline-block;
-    text-align: center;
     padding: 7px;
 }
 
@@ -89,11 +88,6 @@ h2 {
     font-size: 25px;
     font-family: harmattan;
 }
-
-.section p {
-    font-size: 20px;
-    text-align: center;
-} 
 
 .bold {
     font-weight: bold;
