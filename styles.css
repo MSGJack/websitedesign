@@ -14,7 +14,7 @@ li {
 h1 {
     font-size: 40px;
     text-align: center;
-    font-family: Gurajada;
+    font-family: Asul;
     margin: 0;
     font-weight: 100;
 }
@@ -34,12 +34,12 @@ h2 {
     margin: auto;
 }
 
-.navy {
-    background-color: navy;
-    color: white;
+.aquamarine {
+    background-color: aquamarine;
+    color: black;
 }
 
-.gold {
+.navajowhite {
     background-color: navajowhite;
     color: black;
 }
@@ -84,13 +84,13 @@ h2 {
     text-decoration: underline;
 }
 
-.section h1 {
+.colors h1 {
     font-weight: 700;
     font-size: 35px;
     font-family: Asul;
 }
 
-.section h2 {
+.colors h2 {
     font-weight: 550;
     font-size: 30px;
     font-family: harmattan;
@@ -112,12 +112,12 @@ h2 {
 .texts {
     background-color: navajowhite;
     border: 10px solid black;
-    margin: 0%;
+    margin: 0% auto;
     width: 55%;
 }
 
 .fonts { 
     border: 10px solid navy;
-    margin: 0%;
+    margin: 0% auto;
     width: 45%;
 }
