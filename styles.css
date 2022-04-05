@@ -44,9 +44,9 @@ h2 {
     color: black;
 }
 
-.maroon {
-    background-color: maroon;
-    color: white;
+.cornflowerblue {
+    background-color: cornflowerblue;
+    color: black;
 }
 
 .plum {
@@ -117,7 +117,8 @@ h2 {
 }
 
 .fonts { 
-    border: 10px solid navy;
+    border: 10px solid cornflowerblue;
     margin: 0% auto;
     width: 45%;
+    background-color: aquamarine;
 }
