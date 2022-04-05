@@ -68,7 +68,7 @@ h2 {
     padding: 7px;
     text-align: center;
     font-size: 20px;
-    margin: 2% !important;
+    margin: 2% 5em;
 }
 
 .harmattan {
@@ -106,4 +106,9 @@ h2 {
 
 .text-styles p {
     text-align: center;
+    font-size: 25px;
+}
+
+.texts {
+    background-color: navajowhite;
 }
