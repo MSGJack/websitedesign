@@ -122,3 +122,15 @@ h2 {
     width: 45%;
     background-color: aquamarine;
 }
+
+.texts h1 {
+    text-decoration: underline;
+}
+
+.texts h2 {
+    text-decoration: underline;
+}
+
+.texts p {
+    text-decoration: underline;
+}
